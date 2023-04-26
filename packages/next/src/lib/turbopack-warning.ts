@@ -9,6 +9,7 @@ const supportedTurbopackNextConfigOptions = [
   'experimental.appDir',
   'modularizeImports',
   'compiler.emotion',
+  'compiler.relay',
   'compiler.styledComponents',
   'experimental.serverComponentsExternalPackages',
   'experimental.turbo',
